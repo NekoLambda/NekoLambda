@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NekoLambda
-- 👀 I’m interested in: server Hosting
+- 👀 I’m interested in: Server Hosting
 - 🌱 I’m currently learning: HTML (maybe Python or Lua in the future... )
 - 📫 How to reach me: @HaikuIsCool on Discord
 - 😄 Pronouns: He/Him
