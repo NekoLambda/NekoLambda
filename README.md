@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NekoLambda
+# 👋 Hi! I’m @NekoLambda
 - 👀 I’m interested in: Server Hosting
 - 🌱 I’m currently learning: HTML (maybe Python or Lua in the future... )
 - 📫 How to reach me: @HaikuIsCool on Discord
