@@ -1,8 +1,7 @@
 # 👋 Hi! I’m @NekoLambda
-- 👀 I’m interested in: Server Hosting
-- 🌱 I’m currently learning: HTML (maybe Python or Lua in the future... )
+- 👀 I’m interested in: Computer Networking
+- 🌱 I’m currently learning: None so far (maybe HTML, Python or Lua in the future... )
 - 📫 How to reach me: @HaikuIsCool on Discord
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Half-Life!
 
 <!---
